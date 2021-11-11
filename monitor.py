@@ -108,4 +108,4 @@ class SoleboxMonitor:
 
 
 if __name__ == '__main__':
-    SoleboxMonitor(CONFIG['https://discordapp.com/api/webhooks/908215018921816106/_T1hTCf5UOTmd9ifsQ7PLD0x6CNq2-ciTvrTvJ75rbEZctAK10hpWHMtj0-CQoIik7k6'], CONFIG['PROXY'], CONFIG['BR']).monitor()
+    SoleboxMonitor(CONFIG['https://discordapp.com/api/webhooks/908215018921816106/_T1hTCf5UOTmd9ifsQ7PLD0x6CNq2-ciTvrTvJ75rbEZctAK10hpWHMtj0-CQoIik7k6/github'], CONFIG['PROXY'], CONFIG['BR']).monitor()
